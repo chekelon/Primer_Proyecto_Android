@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:text="Ezequiel"
         android:textAlignment="center"
-        android:background="#4D6DE3"
+        android:background="#DA2E9B"
         />
 
 </RelativeLayout>
